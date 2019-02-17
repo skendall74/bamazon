@@ -19,15 +19,20 @@ Consumer.JS Buy:
 ![Image of Buy](https://github.com/skendall74/bamazon/blob/master/assets/consumer_buy.png)
 
 Manager.JS Inventory:
-![Image of Movie](https://github.com/skendall74/bamazon/blob/master/assets/inventory_list.png)
+![Image of Inventory](https://github.com/skendall74/bamazon/blob/master/assets/inventory_list.png)
 
 Manager.JS Low Inventory:
-![Image of Song](https://github.com/skendall74/bamazon/blob/master/assets/low_inventory.png)
+![Image of Inventory](https://github.com/skendall74/bamazon/blob/master/assets/low_inventory.png)
 
 Manager.JS Add Inventory:
-![Image of Movie](https://github.com/skendall74/bamazon/blob/master/assets/add_inventory.png)
+![Image of Inventory](https://github.com/skendall74/bamazon/blob/master/assets/add_inventory.png)
 
 Manager.JS New Product:
-![Image of Song](https://github.com/skendall74/bamazon/blob/master/assets/new_product.png)
+![Image of Product](https://github.com/skendall74/bamazon/blob/master/assets/new_product.png)
 
+Manager.JS New Product:
+![Image of Product](https://github.com/skendall74/bamazon/blob/master/assets/new_product.png)
+
+Sql DB:
+![Image of Databse](https://github.com/skendall74/bamazon/blob/master/assets/final_database.png)
 
