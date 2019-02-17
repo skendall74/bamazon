@@ -6,7 +6,8 @@ This uses MySQL and Inquirer npm packages and uses them for data input and stora
 
 Instructions:
 
-Please download the App. Install NPM.  MySQL and Inquirer.  Run bamazonCustomer.js.  (bamazonManager.js) (bamazonSupervisor.js)
+Please download the App. Install NPM.  MySQL and Inquirer.  
+Run node bamazonCustomer.js. or node bamazonManager.js
 
 Click on the following link to preview the completed assignment. https://skendall74.github.io/bamazon/
 
