@@ -11,3 +11,23 @@ Please download the App. Install NPM.  MySQL and Inquirer.  Run bamazonCustomer.
 Click on the following link to preview the completed assignment. https://skendall74.github.io/bamazon/
 
 Built With HTML5 CSS3 JavaScript Node and MySQL.
+
+Consumer.JS Inventory:
+![Image of Inventory](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/consumer_inventory.png)
+
+Consumer.JS Buy:
+![Image of Buy](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/consumer_buy.png)
+
+Manager.JS Inventory:
+![Image of Movie](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/inventory_list.png)
+
+Manager.JS Low Inventory:
+![Image of Song](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/low_inventory.png)
+
+Manager.JS Add Inventory:
+![Image of Movie](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/add_inventory.png)
+
+Manager.JS New Product:
+![Image of Song](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/new_product.png)
+
+
