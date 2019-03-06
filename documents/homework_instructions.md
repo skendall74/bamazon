@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Node.js & MySQL
 
 ## Overview
